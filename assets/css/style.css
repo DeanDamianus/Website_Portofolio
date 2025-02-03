@@ -2036,7 +2036,7 @@ html, body {
 
 /* Sections background: Quote */
 .section-quote {
-  background: url(../img/quote.jpg) center no-repeat fixed;
+  background: url(../img/hore.png) center no-repeat fixed;
 }
 
 .section-quote p {
@@ -2126,8 +2126,7 @@ html, body {
   line-height: 85px;
   text-align: center;
   margin: 0 15px;
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
+  
 }
 
 .client:hover {
