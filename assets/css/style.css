@@ -2050,7 +2050,8 @@ html, body {
 
 /* Sections background: Me */
 .section-me {
-  background: url(../img/baner2.png) center no-repeat fixed;
+  background: url(../img/sky.jpg) center no-repeat fixed;
+  background-size: cover;
 }
 
 .section-me h2 {
